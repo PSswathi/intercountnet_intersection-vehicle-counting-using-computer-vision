@@ -3,7 +3,7 @@
 
 
 ## **Business Problem:**
-Urban intersections are becoming increasingly congested as cities grow and vehicle usage rises. Traditional traffic monitoring methods—such as manual counting, fixed induction loops, or costly radar systems—are either inaccurate, expensive to maintain, or incapable of capturing real-time multi-class traffic patterns.
+Urban intersections are becoming increasingly congested as cities grow and vehicle usage rises. Traditional traffic monitoring methods—such as manual counting, fixed induction loops, or costly radar systems are either inaccurate, expensive to maintain, or incapable of capturing real-time multi-class traffic patterns.
 
 City traffic departments lack accurate per-vehicle-class counts (cars, trucks, buses, motorcycles, bicycles) at intersections, which limits their ability to:
 
