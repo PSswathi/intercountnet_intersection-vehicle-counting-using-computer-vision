@@ -7,13 +7,13 @@ Urban intersections are becoming increasingly congested as cities grow and vehic
 
 City traffic departments lack accurate per-vehicle-class counts (cars, trucks, buses, motorcycles, bicycles) at intersections, which limits their ability to:
 
-•	optimize signal timings
-•	reduce congestion
-•	assess road capacity
-•	plan infrastructure upgrades
-•	improve public safety
-•	analyze traffic flow trends
-•	enforce traffic rules efficiently
+*	optimize signal timings
+*	reduce congestion
+*	assess road capacity
+*	plan infrastructure upgrades
+*	improve public safety
+*	analyze traffic flow trends
+*	enforce traffic rules efficiently
 
 Without reliable, automatic traffic analytics, cities rely on rough estimates, leading to poor traffic planning decisions, wasted budgets, and increased accidents.
 
@@ -21,10 +21,10 @@ Without reliable, automatic traffic analytics, cities rely on rough estimates, l
 
 Develop a computer vision–based deep learning system that automatically:
 
-•	Detects vehicles in intersection images
-•	Classifies them into categories (car, truck, bus, bike, etc.)
-•	Counts the number of vehicles per class in each image
-•	Outputs a structured analytics report for traffic engineers
+*	Detects vehicles in intersection images
+*	Classifies them into categories (car, truck, bus, bike, etc.)
+*	Counts the number of vehicles per class in each image
+*	Outputs a structured analytics report for traffic engineers
 
 InterCountNet aims to replace manual counting and sensor-based systems with an efficient, camera-only solution.
 
