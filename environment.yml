@@ -1,0 +1,23 @@
+name: intercountnet
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26.4
+  - pillow
+  - matplotlib
+  - tqdm
+
+  - pip:
+      - ultralytics
+      - roboflow==1.1.17
+      - python-dotenv
+      - requests-toolbelt
+      - opencv-python==4.10.0.84
+      - notebook
+      - pi_heif
+      - requests-toolbelt
+      - pillow-avif-plugin
+      
